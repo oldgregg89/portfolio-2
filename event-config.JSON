@@ -1,0 +1,73 @@
+{
+  "event":
+  {
+    "scope": "",
+    "name": "Portfolio",
+    "year": 2020,
+    "logo": "",
+    "menu": [
+      
+      {
+        "buttonText": "Work",
+        "buttonLink": "work"
+      },
+      {
+        "buttonText": "Resume",
+        "buttonLink": "resume"
+      },
+      {
+        "buttonText": "Game",
+        "buttonLink": "game"
+      },
+      {
+        "buttonText": "Lobby",
+        "buttonLink": "lobby"
+      }
+    ],
+    "lobby":{
+      "backgroundImage":"",
+      "backgroundSVG":"",
+      "overline":"",
+      "heading":"",
+      "description":[
+
+      ]
+    },
+    "work":{
+      "carousel": {
+        "heading": "Works",
+        "buttonText": "View Works",
+        "items": [
+          {
+            "image": "",
+            "title": "",
+            "description": "",
+            "buttonLink": ""
+          },
+          {
+            "image": "",
+            "title": "",
+            "description": "",
+            "buttonLink": ""
+          },
+          {
+            "image": "",
+            "title": "",
+            "description": "",
+            "buttonLink": ""
+          },
+          {
+            "image": "",
+            "title": "",
+            "description": "",
+            "buttonLink": ""
+          }
+        ]
+      }
+    },
+    "resume":{
+      "image":"",
+      "recommendations":""
+    }
+  }
+}

@@ -66,8 +66,25 @@
       }
     },
     "resume":{
-      "image":"",
-      "recommendations":""
+      "image": "",
+      "Bio": "",
+      "recommendations": [
+        {
+          "name1": "",
+          "professionalRelationship1": "",
+          "edorsement1": ""
+        },
+        {
+          "name2": "",
+          "professionalRelationship2": "",
+          "edorsement2": ""
+        },
+        {
+          "name3": "",
+          "professionalRelationship3": "",
+          "edorsement3": ""
+        }
+      ]
     }
   }
 }

@@ -3,7 +3,6 @@
   {
     "scope": "",
     "name": "Portfolio",
-    "year": 2020,
     "logo": "",
     "menu": [
       
@@ -24,48 +23,71 @@
         "buttonLink": "lobby"
       }
     ],
-    "lobby":{
+    "lobby": {
       "backgroundImage":"",
       "backgroundSVG":"",
       "overline":"",
       "heading":"",
-      "description":[
-
+      "description": [
+        {
+          "buttonText": "Work",
+          "buttonLink": ""
+        },
+        {
+          "buttonText": "Resume",
+          "buttonLink": ""
+        },
+        {
+          "buttonText": "Game",
+          "buttonLink": ""
+        }
       ]
+
     },
-    "work":{
+    "work": {
+      "backgroundImage":"",
+      "backgroundSVG":"",
+      "overline":"",
+      "heading":"",
       "carousel": {
-        "heading": "Works",
-        "buttonText": "View Works",
+        "heading": "Projects",
+        "buttonText": "View Project",
         "items": [
           {
             "image": "",
             "title": "",
             "description": "",
-            "buttonLink": ""
+            "buttonLink": "",
+            "weblink": ""
           },
           {
             "image": "",
             "title": "",
             "description": "",
-            "buttonLink": ""
+            "buttonLink": "",
+            "weblink": ""
           },
           {
             "image": "",
             "title": "",
             "description": "",
-            "buttonLink": ""
+            "buttonLink": "",
+            "weblink": ""
           },
           {
             "image": "",
             "title": "",
             "description": "",
-            "buttonLink": ""
+            "buttonLink": "",
+            "weblink": ""
           }
         ]
       }
     },
-    "resume":{
+    "resume": {
+      "backgroundImage":"",
+      "backgroundSVG":"",
+      "overline":"",
       "image": "",
       "Bio": "",
       "recommendations": [
@@ -85,6 +107,13 @@
           "edorsement3": ""
         }
       ]
+    },
+    "game": {
+      "backgroundImage":"",
+      "backgroundSVG":"",
+      "name": "",
+      "description": "",
+      "gameLink": ""
     }
   }
 }
